@@ -1,4 +1,7 @@
+'use client'
+
 import { useState } from 'react';
+
 
 export default function ConversorMetragem() {
   const [metros, setMetros] = useState('');
