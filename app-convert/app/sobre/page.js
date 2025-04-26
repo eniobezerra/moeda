@@ -6,10 +6,9 @@ export default function Sobre() {
       <div className="p-6">
         <h1 className="text-2xl font-bold mb-4">Sobre o Desenvolvedor</h1>
         <p>
-          Olá! Este aplicativo foi criado com o objetivo de facilitar o dia a dia
-          das pessoas através de conversões rápidas e intuitivas. Eu sou o
-          desenvolvedor deste projeto, apaixonado por tecnologia e sempre em busca
-          de criar soluções práticas e inovadoras.
+         Este aplicativo foi criado para fazer conversao
+        proporcionando  soluções práticas e inovadoras.
+        para disciplina de FRONT-END do Curso Sistem para Internet da Unicap
         </p>
       </div>
     );
